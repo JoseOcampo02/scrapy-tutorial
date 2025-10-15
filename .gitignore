@@ -643,3 +643,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Scrapy specific files
+.scrapy/
+*.log
+*.jsonl
+*.csv
+*.jl
